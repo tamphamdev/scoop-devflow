@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tamphamdev/devflow/releases/download/v1.0.1/devflow_1.0.1_windows_x86_64.zip",
+            "url": "https://github.com/tamphamdev/devflow/releases/download/v1.0.2/devflow_1.0.2_windows_x86_64.zip",
             "bin": [
                 "devflow.exe"
             ],
-            "hash": "ba0de4b4a53ac22b3a48a4b5c55b6b78e1b22984b1f2365567ad5c88ae81e01c"
+            "hash": "5733468c2b387098a5ef6eefcf426c61c8164d2668c7d56a017691948240f898"
         }
     },
     "homepage": "https://github.com/tamphamdev/devflow",
