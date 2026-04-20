@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "description": "Personal CLI for automating frontend workflow with Jira, Bitbucket, Git, and Microsoft Teams.",
+  "homepage": "https://github.com/tamphamdev/devflow",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/tamphamdev/devflow/releases/download/v0.0.1/devflow_0.0.1_windows_x86_64.zip",
+      "bin": "devflow.exe"
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/tamphamdev/devflow"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/tamphamdev/devflow/releases/download/v$version/devflow_$version_windows_x86_64.zip"
+      }
+    }
+  }
+}
